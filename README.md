@@ -31,12 +31,15 @@ ocupación.
 e) El vector de camas debe ser actualizado en cada iteración: 1) eliminando objetos
 pacientes que aleatoriamente se determine que serán dados de alta (25% de probabilidad),
 y 2) generando y asignando los objetos de los nuevos pacientes en camas disponibles.
+
 ![imagen](https://user-images.githubusercontent.com/107895779/198505916-ead646e0-cec7-4959-8186-422d77735e16.png)
 
 f) La simulación debe terminar cuando ya no se cuente con camas disponibles.
+
 ![imagen](https://user-images.githubusercontent.com/107895779/198505930-3afc820b-ffd6-4a33-90af-9a51a6d1dd27.png)
 
 g) El programa principal solo debe generar una instancia de la clase Hospital y mandar llamar al método simulaHospital().
+
 ![imagen](https://user-images.githubusercontent.com/107895779/198505965-62d56e94-ebac-42b9-be4d-05dd63791345.png)
 
 <h2>2. En la implementación de las clases debe considerar el diagrama de clases siguiente, pero
